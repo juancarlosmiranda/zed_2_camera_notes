@@ -28,12 +28,16 @@ This document is organized as following:
 ## 1. Fast setup using scripts in Linux systems
 In Linux systems you can install packages using Bash scripts, tested in Ubuntu 20.04. A super fast script for impatient people, copy and paste it!!!
 ```
-git clone https://github.com/juancarlosmiranda/zed_2_camera_notes.git && cd zed_2_camera_notes && chmod 755 install_zed_2_camera.sh
+git clone https://github.com/juancarlosmiranda/zed_2_camera_notes.git && cd zed_2_camera_notes && chmod 755 install_zed_2_camera_linux.sh
 ```
 
 Check the camera with this tool **[ZED Explorer]**.
 ```
-TO_COMPLETE_THIS
+/usr/local/zed/tools/ZED_Explorer
+```
+Use **[ZED Depth Viewer]**.
+```
+/usr/local/zed/tools/ZED_Depth_Viewer
 ```
 
 
