@@ -1,4 +1,4 @@
-![SOFTWARE_PRESENTATION](https://github.com/juancarlosmiranda/https://github.com/juancarlosmiranda/zed_2_camera_notes/blob/main/img/zed_2_presentation.png?raw=true)
+![SOFTWARE_PRESENTATION](https://github.com/juancarlosmiranda/zed_2_camera_notes/blob/main/img/zed_2_presentation.png?raw=true)
 
 # README - Stereolabs ZED 2 camera
 
